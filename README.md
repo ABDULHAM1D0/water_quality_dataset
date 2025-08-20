@@ -27,7 +27,6 @@ This project analyzes a Water Quality Dataset to predict whether water is potabl
 
 ## Future Work
 - Explore additional machine learning models and ensemble methods.
-
-Improve feature engineering and data collection for higher predictive accuracy.
+- Improve feature engineering and data collection for higher predictive accuracy.
 
 Deploy a simple web app or API to make predictions on new water samples.
